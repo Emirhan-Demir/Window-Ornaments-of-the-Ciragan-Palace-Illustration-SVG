@@ -2,6 +2,9 @@
 Window Ornaments of the Çırağan Palace SVG
 
 Hi there!
+I'm Emihan and I'm Graphic Design student. Theese are my projects. 
+If you encounter any problems with the projects, you can email me. "emirhand851@gmail.com"
+
 
 Projects wievs:
 *********************************
