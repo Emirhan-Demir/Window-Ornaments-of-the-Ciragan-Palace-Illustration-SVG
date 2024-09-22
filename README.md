@@ -17,3 +17,9 @@ Projects wievs:
 
 "CIRAGAN PALACE DESIGN 2"
 ![ciragan palace design 2](https://github.com/user-attachments/assets/e11a7223-d62b-45e0-bb48-f5dc93866855)
+
+
+*********************************
+
+
+[ciragan palace design 1.pdf](https://github.com/user-attachments/files/17089426/ciragan.palace.design.1.pdf)
