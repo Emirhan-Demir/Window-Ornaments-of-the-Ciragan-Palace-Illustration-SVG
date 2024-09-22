@@ -5,21 +5,14 @@ Hi there!
 
 Projects wievs:
 
+![CP SEAL](https://github.com/user-attachments/assets/21e2dc8c-5b91-43d6-a2c5-c57b1446060f)
 "CP SEAL"
-![cp seal](https://github.com/user-attachments/assets/36b1b4f3-32ee-4777-aa17-b6817f64db96)
-
 *********************************
+![CIRAGAN PALACE DESIGN 1](https://github.com/user-attachments/assets/fa6039ae-1daa-47c1-b092-745964abfcf8)
 
 "CIRAGAN PALACE DESIGN 1"
-![ciragan palace design 1](https://github.com/user-attachments/assets/d1814a1a-079d-4677-98aa-547227cbb966)
-
 *********************************
+![CIRAGAN PALACE DESIGN 2](https://github.com/user-attachments/assets/b9ae5df7-baac-4fc1-be01-28b060ed2397)
 
 "CIRAGAN PALACE DESIGN 2"
-![ciragan palace design 2](https://github.com/user-attachments/assets/e11a7223-d62b-45e0-bb48-f5dc93866855)
-
-
 *********************************
-
-
-[ciragan palace design 1.pdf](https://github.com/user-attachments/files/17089426/ciragan.palace.design.1.pdf)
