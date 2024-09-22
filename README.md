@@ -1,9 +1,16 @@
 # Window-Ornaments-of-the-Ciragan-Palace-Illustration-SVG
 Window Ornaments of the Çırağan Palace SVG
 
+ENG:gb:
 Hi there!
 I'm Emihan and I'm Graphic Design student. Theese are my projects. 
 If you encounter any problems with the projects, you can email me. "emirhand851@gmail.com"
+
+About Projects:
+The files in svg format were very large so I uploaded them to the system in ZIP. I also uploaded PDF versions of the same files.
+
+About "CIRAGAN PALACE DESIGN 1":
+I grouped the project while editing with layer. This way you can easily change the color of the project which is currently purple.
 
 
 Projects wievs:
