@@ -4,7 +4,7 @@ Window Ornaments of the Çırağan Palace SVG
 Hi there!
 
 Projects wievs:
-
+*********************************
 ![CP SEAL](https://github.com/user-attachments/assets/21e2dc8c-5b91-43d6-a2c5-c57b1446060f)
 "CIRAGAN PALACE SEAL"
 *********************************
