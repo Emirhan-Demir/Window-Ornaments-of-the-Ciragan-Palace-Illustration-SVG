@@ -9,9 +9,11 @@ I'm Emihan and I'm Graphic Design student. Theese are my projects.
 If you encounter any problems with the projects, you can email me. "emirhand851@gmail.com"
 
 About Projects:
+
 The files in svg format were very large so I uploaded them to the system in ZIP. I also uploaded PDF versions of the same files.
 
 About "CIRAGAN PALACE DESIGN 1":
+
 I grouped the project while editing with layer. This way you can easily change the color of the project which is currently purple.
 
 *********************************
@@ -24,9 +26,11 @@ Ben Emirhan, Grafik Tasarım öğrencisiyim. Bunlarda benim çalışmalarım.
 Projelerle ilgili bir soun yaşarsanız bana mail atabilirsiniz. "emirhand851@gmail.com"
 
 Projeler Hakkında:
+
 SVG formatların dosya büyüklükleri fazla olduğundan dolayı ZIP şeklinde sisteme yükledim. Ayrıca PDF formatlarda mevcut.
 
 "CIRAGAN PALACE DESIGN 1" Projesi Hakkında:
+
 Projeyi düzenlerken katmanları ve nesneleri renklendirmeye uygun şekilde grupladım. Şuan mor olan projeyi kolay bir şekilde renklendirebilirisiniz.
 
 
