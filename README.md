@@ -14,6 +14,7 @@ The files in svg format were very large so I uploaded them to the system in ZIP.
 About "CIRAGAN PALACE DESIGN 1":
 I grouped the project while editing with layer. This way you can easily change the color of the project which is currently purple.
 
+Note: the PDF ZIP version of "CIRAGAN PALACE DESIGN 2" folder could not be uploaded to the system because it exceeded the github file upload limit. If you wish, you can use Adobe Illustration for create PDF format.
 *********************************
 
 :tr:
@@ -28,6 +29,8 @@ SVG formatların dosya büyüklükleri fazla olduğundan dolayı ZIP şeklinde s
 
 "CIRAGAN PALACE DESIGN 1" Projesi Hakkında:
 Projeyi düzenlerken katmanları ve nesneleri renklendirmeye uygun şekilde grupladım. Şuan mor olan projeyi kolay bir şekilde renklendirebilirisiniz.
+
+Not: "CIRAGAN PALACE DESIGN 2" klasörünün PDF ZIP sürümü, github dosya yükleme sınırını aştığı için sisteme yüklenemedi. İsterseniz, PDF formatı oluşturmak için Adobe Illustration kullanabilirsiniz.
 
 
 *********************************
