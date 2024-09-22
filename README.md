@@ -6,7 +6,7 @@ Hi there!
 Projects wievs:
 
 ![CP SEAL](https://github.com/user-attachments/assets/21e2dc8c-5b91-43d6-a2c5-c57b1446060f)
-"CP SEAL"
+"CIRAGAN PALACE SEAL"
 *********************************
 ![CIRAGAN PALACE DESIGN 1](https://github.com/user-attachments/assets/fa6039ae-1daa-47c1-b092-745964abfcf8)
 
